@@ -10,3 +10,16 @@
 
 	<p>Submitted values are:</p>
 	[webform_submission:values]
+
+
+	-----------------------------------
+
+		Subject:
+	We Care: Request ID #[webform_submission:serial]
+
+	Body:
+	<p>Thank you for your feedback.</p>
+
+	<p>Your request ID is <strong>#[webform_submission:serial]</strong>.</p>
+
+	<p>We will review it and get back to you.</p>
