@@ -9,3 +9,7 @@ sudo cp -r /var/www/html/sarnewfilechanges/custom/* /var/www/html/sar/modules/cu
 sudo chown -R apache:apache /var/www/html/sar/modules/custom
 
 ls /var/www/html/sar/modules/custom
+
+-----------
+
+sudo cp -r /var/www/html/sarnewfilechanges/contrib/* /var/www/html/sar/modules/contrib/
