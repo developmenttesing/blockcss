@@ -13,3 +13,7 @@ ls /var/www/html/sar/modules/custom
 -----------
 
 sudo cp -r /var/www/html/sarnewfilechanges/contrib/* /var/www/html/sar/modules/contrib/
+
+sudo chown -R ritesh.vatwani:ritesh.vatwani /var/www/html/sarnewfilechanges/contrib
+
+ls -ld /var/www/html/sarnewfilechanges/contrib
