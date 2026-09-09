@@ -4,3 +4,8 @@ sudo touch block--webform.html.twig
 sudo nano block--views-block--appreciation-station-view-block-1.html.twig
 
 
+sudo cp -r /var/www/html/sarnewfilechanges/custom/* /var/www/html/sar/modules/custom/
+
+sudo chown -R apache:apache /var/www/html/sar/modules/custom
+
+ls /var/www/html/sar/modules/custom
