@@ -1,6 +1,4 @@
-sudo touch block--webform.html.twig
+sudo chown -R ritesh.vatwani:ritesh.vatwani /var/www/html/sarnewfilechanges/themes
 
 
-sudo nano block--views-block--appreciation-station-view-block-1.html.twig
-
-
+sudo cp /var/www/html/sarnewfilechanges/themes/sar.theme /var/www/html/sar/themes/sar/sar.theme
