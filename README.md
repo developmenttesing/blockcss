@@ -1,8 +1,5 @@
 
-`\Drupal::logger('sar_appreciation_station')->notice(
-    'Library attached to form: @id',
-    ['@id' => $form_id]
-  );`
+`modules/custom/sar_appreciation_station/js/appreciation-word-limit.js`
 
 
   `js/appreciation-hide-entity-id.js: {}`
