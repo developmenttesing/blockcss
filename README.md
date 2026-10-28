@@ -1,4 +1,9 @@
 
+`\Drupal::logger('sar_appreciation_station')->notice('Form ID: @form_id', [
+    '@form_id' => $form_id,
+  ]);`
+
+
 PATH: structure/webform/manage/appreciation_station/translate/ar/edit
 
 PATH: config/regional/translate for static string
