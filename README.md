@@ -12,6 +12,7 @@ PATH: structure/block/manage/views_block__appreciation_station_view_block_1/tran
 
 
 regex!/ar/form/appreciation-station/confirmation :: محطة تقدير | /form/appreciation-station :: تأكيد
+
 regex!/ar/form/appreciation-station :: محطة تقدير
 
 
