@@ -1,15 +1,8 @@
 
-`if (strpos($form_id, 'webform_submission_') === 0) {
-    \Drupal::logger('sar_appreciation_station')->notice('Webform form ID: @id', [
-      '@id' => $form_id,
-    ]);
-  }`
-
-
-
-  `\Drupal::logger('sar_appreciation_station')->notice('Library attached to form: @id', [
-    '@id' => $form_id,
-  ]);`
+`\Drupal::logger('sar_appreciation_station')->notice(
+    'Library attached to form: @id',
+    ['@id' => $form_id]
+  );`
 
 
 PATH: structure/webform/manage/appreciation_station/translate/ar/edit
