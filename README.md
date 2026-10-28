@@ -1,20 +1,38 @@
-Industrial Security & Safety 
-Infrastructure 
-Strategic Planning & Control 
-HHR & Al Mashaaer 
-Passenger 
-Freight 
-Real Estate 
-Mega Projects 
-Engineering & Projects 
-Finance 
-Legal 
-Internal Audit 
+Industrial Security & Safety
+
+Infrastructure
+
+Strategic Planning & Control
+
+HHR & Al Mashaaer
+
+Passenger
+
+Freight
+
+Real Estate
+
+Mega Projects
+
+Engineering & Projects
+
+Finance
+
+Legal
+
+Internal Audit
+
+
 Human Capital
-Information Technology 
-Supply Chain 
-Corporate Communications & Marketing 
+
+Information Technology
+
+Supply Chain
+
+Corporate Communications & Marketing
+
 General Secretariat Office
+
 CEO Office
 
 
