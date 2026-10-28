@@ -1,10 +1,9 @@
 
-`<span class="appreciation-card__field-label">[{% trans %}Receiver Name{% endtrans %}]</span>`
-
-
-`<span class="appreciation-card__field-label">[{% trans %}BU{% endtrans %}]</span>`
-
-`<span class="appreciation-card__field-label">[{% trans %}Sender Name{% endtrans %}]</span>`
+`if (document.documentElement.lang.startsWith('ar')) {
+            $counter.text( Drupal.t('Words') + ' ' + MAX_WORDS +  '/' + count );
+          } else {
+            $counter.text(count + '/' + MAX_WORDS + ' ' + Drupal.t('Words'));
+          }`
 
 
 
