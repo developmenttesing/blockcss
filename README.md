@@ -1,6 +1,14 @@
 
-`\Drupal::logger('sar_appreciation_station')->notice('Form ID: @form_id', [
-    '@form_id' => $form_id,
+`if (strpos($form_id, 'webform_submission_') === 0) {
+    \Drupal::logger('sar_appreciation_station')->notice('Webform form ID: @id', [
+      '@id' => $form_id,
+    ]);
+  }`
+
+
+
+  `\Drupal::logger('sar_appreciation_station')->notice('Library attached to form: @id', [
+    '@id' => $form_id,
   ]);`
 
 
