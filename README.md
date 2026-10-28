@@ -5,6 +5,9 @@
   );`
 
 
+  `js/appreciation-hide-entity-id.js: {}`
+
+
 PATH: structure/webform/manage/appreciation_station/translate/ar/edit
 
 PATH: config/regional/translate for static string
