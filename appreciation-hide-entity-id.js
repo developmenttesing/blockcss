@@ -1,4 +1,9 @@
-(function ($, Drupal, once) {
+/**
+ * @file
+ * Hide entity ID suffix from autocomplete display; restore it on submit.
+ */
+
+(function ($, Drupal) {
   'use strict';
 
   function stripId(value) {
@@ -22,8 +27,8 @@
 
   Drupal.behaviors.sarAppreciationHideEntityId = {
     attach: function (context) {
-      once('sar-hide-entity-id', 'input.form-autocomplete', context).forEach(function (el) {
-        var $input = $(el);
+      $(context).find('input.form-autocomplete').once('sar-hide-entity-id').each(function () {
+        var $input = $(this);
         var name = $input.attr('name') || '';
 
         // Only receiver fields on this form.
@@ -46,4 +51,4 @@
       });
     }
   };
-})(jQuery, Drupal, once);
+})(jQuery, Drupal);
