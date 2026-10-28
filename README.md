@@ -1,3 +1,28 @@
+Industrial Security & Safety 
+Infrastructure 
+Strategic Planning & Control 
+HHR & Al Mashaaer 
+Passenger 
+Freight 
+Real Estate 
+Mega Projects 
+Engineering & Projects 
+Finance 
+Legal 
+Internal Audit 
+Human Capital
+Information Technology 
+Supply Chain 
+Corporate Communications & Marketing 
+General Secretariat Office
+CEO Office
+
+
+
+
+
+
+
 
 `modules/custom/sar_appreciation_station/js/appreciation-word-limit.js`
 
