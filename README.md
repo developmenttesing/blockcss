@@ -1,16 +1,10 @@
 
-<span class="appreciation-card__field-label">[{% trans %}Receiver Name{% endtrans %}]</span>
+`<span class="appreciation-card__field-label">[{% trans %}Receiver Name{% endtrans %}]</span>`
 
 
-<span class="appreciation-card__field-label">[{% trans %}BU{% endtrans %}]</span>
+`<span class="appreciation-card__field-label">[{% trans %}BU{% endtrans %}]</span>`
 
-{% if fields.field_sender_name %}
-    <div class="appreciation-card__sender">
-      <span class="appreciation-card__sender-label">{% trans %}Recognized by{% endtrans %}</span>
-      {{ fields.field_sender_name.content }}
-      <span class="appreciation-card__field-label">[{% trans %}Sender Name{% endtrans %}]</span>
-    </div>
-  {% endif %}
+`<span class="appreciation-card__field-label">[{% trans %}Sender Name{% endtrans %}]</span>`
 
 
 
