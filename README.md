@@ -19,3 +19,7 @@ regex!/ar/form/appreciation-station :: محطة تقدير
 BU - القطاع
 
 Username - المستلم
+
+Sender Name - اسم المرسل
+
+Receiver Name - اسم المتلقي
