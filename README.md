@@ -1,39 +1,63 @@
-Industrial Security & Safety
-
-Infrastructure
-
-Strategic Planning & Control
-
-HHR & Al Mashaaer
-
-Passenger
-
-Freight
-
-Real Estate
-
-Mega Projects
-
-Engineering & Projects
-
-Finance
-
-Legal
-
-Internal Audit
+Industrial Security & Safety قطاع الأمن الصناعي والسلامة
 
 
-Human Capital
+Infrastructure قطاع البنية التحتية
 
-Information Technology
 
-Supply Chain
+Strategic Planning & Control قطاع التحكم الاستراتيجي والتخطيط
 
-Corporate Communications & Marketing
 
-General Secretariat Office
 
-CEO Office
+HHR & Al Mashaaer قطاع الحرمين والمشاعر المقدسة
+
+
+
+Passenger قطاع الركاب
+
+
+
+
+Freight قطاع الشحن
+
+
+
+Real Estate قطاع العقارات
+
+
+
+Mega Projects  قطاع المشاريع الكبرى
+
+
+Engineering & Projects قطاع الهندسة والمشاريع
+
+
+Finance الإدارة المالية
+
+
+Legal الإدارة القانونية
+
+
+Internal Audit إدارة المراجعة الداخلية
+
+
+
+Human Capital قطاع رأس المال البشري
+
+
+Information Technology تقنية المعلومات
+
+
+Supply Chain سلاسل الإمداد
+
+
+Corporate Communications & Marketing التسويق والاتصال المؤسسي
+
+
+General Secretariat Office الأمانة العامة لمجلس الإدارة
+
+
+CEO Office مكتب الرئيس التنفيذي
+
 
 
 
